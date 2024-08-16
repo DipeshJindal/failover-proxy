@@ -1,0 +1,5 @@
+failover:
+  proxy:
+    auto:
+      enabled: true
+    supported: A_METHOD,B_METHOD,C_METHOD
